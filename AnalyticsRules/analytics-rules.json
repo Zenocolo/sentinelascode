@@ -50,8 +50,7 @@
           "Medium",
           "Low"
         ],
-        "displayNamesFilter": null,
-        "playbookName": ""
+        "displayNamesFilter": null
       },
       {
         "kind": "Fusion",
