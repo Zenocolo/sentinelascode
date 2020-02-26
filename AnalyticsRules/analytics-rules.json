@@ -17,7 +17,8 @@
           "Persistence",
           "LateralMovement",
           "Collection"
-        ]
+        ],
+        "playbookName": ""
       },
       {
         "kind": "Scheduled",
@@ -35,7 +36,8 @@
         "tactics": [
           "Persistence",
           "LateralMovement"
-        ]
+        ],
+        "playbookName": ""
       },
       {
         "kind": "MicrosoftSecurityIncidentCreation",
