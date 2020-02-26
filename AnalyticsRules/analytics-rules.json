@@ -57,15 +57,13 @@
         "kind": "Fusion",
         "displayName": "Advanced Multistage Attack Detection",
         "enabled": true,
-        "alertRuleTemplateName": "f71aba3d-28fb-450b-b192-4e76a83015c8",
-        "playbookName": ""
+        "alertRuleTemplateName": "f71aba3d-28fb-450b-b192-4e76a83015c8"
       },
       {
         "kind": "MLBehaviorAnalytics",
         "displayName": "(Preview) Anomalous SSH Login Detection",
         "enabled": true,
-        "alertRuleTemplateName": "fa118b98-de46-4e94-87f9-8e6d5060b60b",
-        "playbookName": ""
+        "alertRuleTemplateName": "fa118b98-de46-4e94-87f9-8e6d5060b60b"
       }
     ]
   }
