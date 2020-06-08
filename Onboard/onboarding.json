@@ -1,12 +1,12 @@
 {
     "deployments": [
         {
-            "resourcegroup": "sentinel",
-            "workspace": "sorisentinel"
+            "resourcegroup": "sentinelDemoCustomerA",
+            "workspace": "customerA"
         },
         {
-            "resourcegroup": "production",
-            "workspace": "testlasoricloud"
+            "resourcegroup": "sentinelDemoCustomerB",
+            "workspace": "customerB"
         }
     ]
 }
